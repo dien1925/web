@@ -5,6 +5,105 @@ body{
     margin: 0px;
 }
 
+.bostrap{
+    position: absolute;
+    top: -992%;
+    left: 0%;
+    right: 69%;
+    bottom: 0%;
+}
+
+.bostrap .hearder{
+    position: absolute;
+    top: 0%;
+    left: -32%;
+    right: 0%;
+    bottom: 0%;
+    letter-spacing: 2.6px;
+    color:#262613;
+}
+
+.bostrap .read{
+    position: absolute;
+    top: 52%;
+    left: -25%;
+    right: 0%;
+    bottom: 0%;
+    height: 9%;
+    width: 46%;
+    
+}
+
+.bostrap h2{
+    color: black;
+    font-size: 5rem;
+    position: absolute;
+    
+}
+
+.h21{
+    top: 6%;
+    left: -47%;
+    right: 40%;
+    bottom: 0%
+}
+
+.h22{
+    top: 27%;
+    left: -26%;
+    right: 50%;
+    bottom: 0%;
+}
+
+.bostrap2{
+    position: absolute;
+    top: -992%;
+    left: 0%;
+    right: -69%;
+    bottom: 0%;
+}
+
+.bostrap2 .hearder{
+    position: absolute;
+    top: -8%;
+    left: 9%;
+    right: 0%;
+    bottom: 0%;
+    letter-spacing: 5.6px;
+    color: #fff;
+}
+
+.bostrap2 .read{
+    position: absolute;
+    top: 35%;
+    left: 47%;
+    right: 0px;
+    bottom: 0%;
+    height: 9%;
+    width: 15%;
+    
+}
+
+.bostrap2 h2{
+    color: black;
+    font-size: 5rem;
+    position: absolute;
+    
+}
+
+.h23{
+    top: 5%;
+    left: 0;
+    right: -12%;
+    bottom: 0%;
+}
+
+.h24{
+    top: 27%;
+    left: 0;
+    right: -8%;
+    bottom: 0%;
+}
 
 .top-header{
     width: 100%;

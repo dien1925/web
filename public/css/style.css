@@ -5,7 +5,22 @@ body{
     margin: 0px;
 }
 
-
+.tt2{
+    position: absolute;
+    top: 0%;
+    left: 40%;
+    right: 0%;
+    bottom: 0%;
+}
+.tt3{
+    position: absolute;
+    top: 0%;
+    left: 49%;
+    right: 0%;
+    bottom: 0%;
+    border-left : #dcdcd9 solid 1px; 
+    padding: 0% 1%;
+}
 
 .bostrap{
     position: absolute;

@@ -5,6 +5,8 @@ body{
     margin: 0px;
 }
 
+
+
 .bostrap{
     position: absolute;
     top: -992%;
@@ -517,69 +519,6 @@ li.nav-item.dropdown {
 }
 
 
-
-.tt2{
-    position: absolute;
-    top: 0%;
-    left: 40%;
-    right: 0%;
-    bottom: 0%;
-}
-.tt3{
-    position: absolute;
-    top: 0%;
-    left: 49%;
-    right: 0%;
-    bottom: 0%;
-    border-left : #dcdcd9 solid 1px; 
-    padding: 0% 1%;
-}
-
-.tt4{
-    
-    position: absolute;
-    top: 0%;
-    left: 75%;
-    right: 0%;
-    bottom: 0%;
-    padding: 0% 1%;
-}
-.tt5{
-    
-    position: absolute;
-    top: 0%;
-    left: 78%;
-    right: 0%;
-    bottom: 0%;
-    padding: 0% 1%;
-}
-.tt6{
-    
-    position: absolute;
-    top: 0%;
-    left: 81%;
-    right: 0%;
-    bottom: 0%;
-    padding: 0% 1%;
-}
-.tt7{
-    
-    position: absolute;
-    top: 0%;
-    left: 84%;
-    right: 0%;
-    bottom: 0%;
-    padding: 0% 1%;
-}
-.tt8{
-    
-    position: absolute;
-    top: 0%;
-    left: 87%;
-    right: 0%;
-    bottom: 0%;
-    padding: 0% 1%;
-}
 
 /* Dành cho điện thoại */
 @media all and (max-width: 480px) {
